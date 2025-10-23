@@ -3,4 +3,5 @@ plugins:
 - jekyll-remote-theme 
 title: Neha Arora
 social_preview_image: neha_new_pix.jpg
-description: Bookmark this to keep an eye on my project updates!
+gem "github-pages", group::jekyll_plugins
+
