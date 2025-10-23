@@ -2,5 +2,5 @@ remote_theme: pages-themes/modernist@v0.2.0
 plugins:
 - jekyll-remote-theme 
 title: Neha Arora
-social_preview_image: 
+social_preview_image: neha_new_pix.jpg
 description: Bookmark this to keep an eye on my project updates!
