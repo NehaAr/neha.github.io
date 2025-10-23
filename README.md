@@ -2,4 +2,4 @@
 
 ## About Myself
 
-I am a PHD student at **University of Newcastle** Australia
+I am a PHD student at the **University of Newcastle**, Australia
