@@ -15,16 +15,14 @@ I have worked for Tata Consultancy Services and Hindustan Computer Limited as a 
 |**➢ Computing Models**|HPC, Parallel Computing , Cloud Computing|
 |**➢ Computing Model Technologies**|OpenMP, CUDA|
 |**➢ Scripting Languages**|Powershell, Linux|
-|➢ Tools: |MATLAB, LabVIEW, Selenium, OPNET, ProVerif, Citrix, Nagios, Nmap, Wireshark|
-➢ Networking: Cisco Packet Tracer, TCP Packet Capture
-➢ Hardware: Arduino, NodeMCU
+|**➢ Tools:** |MATLAB, LabVIEW, Selenium, OPNET, ProVerif, Citrix, Nagios, Nmap, Wireshark|
+|**➢ Hardware Development Platforms**| Arduino, NodeMCU|
 
 
 ## Notable Achievements
 ```bash
 1.Women Scientist at TIFAC(WOS-C) (2019-2020)
 2.CMIE Fellow(2018-2019)(Fellowship awarded by Delhi Government)
-3. Guest Lecturer
-4.
-5.
+3.Guest Lecturer at Indira Gandhi Technical University, Delhi(2020)
+4.Day of AI Ambassador(2025)
 ```
