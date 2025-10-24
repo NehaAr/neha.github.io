@@ -1,5 +1,6 @@
 ## Data Scientist
 ![Image](neha_new_git.jpg)
+
 ## Summary
 
 I am a PHD student at the **University of Newcastle**, Australia. I have diverse experience in Machine Learning, Data Science, and Deep Neural Networks.
