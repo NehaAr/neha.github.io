@@ -27,3 +27,12 @@ I have worked for Tata Consultancy Services and Hindustan Computer Limited as a 
 3.Guest Lecturer at Indira Gandhi Technical University, Delhi(2020)
 4.Day of AI Ambassador(2025)
 ```
+
+## Grants
+```
+1. Travel grant from Company of Biologists(600 pound).
+2. Travel grant for attending international Summer School in Lisbon from CSIRO.
+3. Travel grant for attending PyCon Conference 2025, Melbourne as a Invited speaker.
+4. Travel grant for attending PyCon Conference 2025, Malaysia as a Invited speaker.
+5. GPU research credits award from Google.
+```
