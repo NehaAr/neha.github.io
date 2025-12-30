@@ -6,7 +6,7 @@
 I am a Researcher at the **University of Newcastle**, Australia. I have diverse experience in Machine Learning, Data Science, and Deep Neural Networks.
 I have worked for Tata Consultancy Services and Hindustan Computer Limited as a System Engineer and a Product Engineer.
 
-
+**ORCID:** https://orcid.org/0009-0008-4196-2683
 ## Technical Skills
 
 |   Skill            |    Description          |
