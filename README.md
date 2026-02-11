@@ -39,3 +39,19 @@ I have worked for Tata Consultancy Services and Hindustan Computer Limited as a 
 4. Travel grant for attending PyCon Conference 2025, Malaysia as a Invited speaker.
 5. GPU research credits award from Google.
 ```
+
+## Conferences 
+
+|   Conference         |    Month/Year         |
+|--------------------|-------------------------|
+|**➢ Australasian Summer School** |Dec-2024|
+|**➢ IHPCSS Summer School**| Jun-2025|
+|**➢ ABACBS Bioinformatics CConference**|Nov-2025|
+|**➢ EMBL-AI and Biology Symposium**|March-2026|
+
+## Leadership Roles
+```
+1. Industry Coordinator COMBINE Australia
+2. Ambassadior (DAy of AI)
+
+```
