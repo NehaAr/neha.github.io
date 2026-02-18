@@ -38,6 +38,7 @@ I have worked for Tata Consultancy Services and Hindustan Computer Limited as a 
 3. Travel grant for attending PyCon Conference 2025, Melbourne as a Invited speaker.
 4. Travel grant for attending PyCon Conference 2025, Malaysia as a Invited speaker.
 5. GPU research credits award from Google.
+6. NSW Regional Cancer Research Grant for poster presentation at EMBL-AI and Biology(3678AUD)
 ```
 
 ## Conferences 
