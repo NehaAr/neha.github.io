@@ -7,15 +7,17 @@ I am a Researcher at the University of Newcastle with a strong background in Mac
 **ORCID:** https://orcid.org/0009-0008-4196-2683
 ## Technical Skills
 
-|   Skill            |    Description          |
-|--------------------|-------------------------|
-|**➢ Programming** |Java, Python, C, C++, R|
-|**➢ Database Management Systems**| Oracle 9i, Oracle 10g, MySQL, NoSQL, SQL Server 2019, DuckDB|
-|**➢ Computing Models**|HPC, Parallel Computing , Cloud Computing|
-|**➢ Computing Model Technologies**|OpenMP, CUDA|
-|**➢ Scripting Languages**|Powershell, Linux|
-|**➢ Tools:** |MATLAB, LabVIEW, Selenium, OPNET, ProVerif, Citrix, Nagios, Nmap, Wireshark|
-|**➢ Hardware Development Platforms**| Arduino, NodeMCU|
+|Category	|Skills/Expertise|
+|---------|----------------|
+|🧬 Bioinformatics & Computational Biology|	Genomic data analysis (GWAS, SNP analysis, association studies) ;multi-omics data integration (proteomics, transcriptomics); Protein–Protein Interaction (PPI) network analysis; Statistical genetics (PRS, Mendelian Randomization, LD Score Regression)|
+|⚙️Biological databases|GEO, UniProt, STRING|
+|🤖 Machine Learning |Data preprocessing, normalization, feature engineering ;  AI	Supervised & unsupervised learning; Deep learning (neural networks, representation learning)| Graph Neural Networks (GNNs); Ensemble methods; Model evaluation and validation|
+|💻 Programming|	Python, R, Java, C, C++|
+|🗄️ Databases & Data Engineering|	MySQL, SQL Server 2019, Oracle 9i/10g; NoSQL databases; Large-scale data handling|
+|🧪 Tools & Platforms|	MATLAB, LabVIEW, Selenium; OPNET, ProVerif, Citrix, Nagios, Nmap, Wireshark|
+|🌐 Systems & Networking|	UNIX, Linux; Cisco Packet Tracer; TCP packet capture|
+|⚙️ Hardware & Embedded Systems|	Arduino, NodeMCU|
+
 
 
 ## Notable Achievements
