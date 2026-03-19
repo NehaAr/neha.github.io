@@ -2,7 +2,7 @@
 ![Image](neha_new_git.jpg)
 
 ## Summary
-I am a Student Researcher at the University of Newcastle with a strong background in Machine Learning, Data Science, and Deep Neural Networks. I bring industry experience from Tata Consultancy Services and HCL Technologies, where I worked as a System Engineer and Product Engineer. My current research focuses on developing software tools to support the analysis and understanding of complex diseases and disorders using Genetic Analysis.
+I am a PHD Student at the University of Newcastle with a strong background in Machine Learning, Data Science, and Deep Neural Networks. I bring industry experience from Tata Consultancy Services and HCL Technologies, where I worked as a System Engineer and Product Engineer. My current research focuses on developing software tools to support the analysis and understanding of complex diseases and disorders using Genetic Analysis.
 
 **ORCID:** https://orcid.org/0009-0008-4196-2683
 ## Technical Skills
@@ -27,8 +27,7 @@ I am a Student Researcher at the University of Newcastle with a strong backgroun
 3.Guest Lecturer at Indira Gandhi Technical University, Delhi(2020)
 4.Day of AI Ambassador(2025)
 5.Invited Speaker at PyCon Australia 2025
-6.Invited Speaker at PyCon Malaysia  2025
-7.Keynote Speaker at NIER Conference 2025
+6.Keynote Speaker at NIER Conference 2025(Virtual)
 ```
 
 ## Grants
@@ -36,9 +35,8 @@ I am a Student Researcher at the University of Newcastle with a strong backgroun
 1. Travel grant from Company of Biologists.
 2. Travel grant for attending international Summer School in Lisbon from CSIRO.
 3. Travel grant for attending PyCon Conference 2025, Melbourne as a Invited speaker.
-4. Travel grant for attending PyCon Conference 2025, Malaysia as a Invited speaker.
-5. GPU research credits award from Google.
-6. NSW Regional Cancer Research Grant for poster presentation at EMBL-AI and Biology(3678AUD)
+4. GPU research credits award from Google.
+5. NSW Regional Cancer Research Grant for poster presentation at EMBL-AI and Biology(3678AUD)
 ```
 
 ## Conferences 
