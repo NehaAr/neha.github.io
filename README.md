@@ -1,10 +1,8 @@
-## Data Scientist
+## Computational Biologist
 ![Image](neha_new_git.jpg)
 
 ## Summary
-
-I am a Researcher at the **University of Newcastle**, Australia. I have diverse experience in Machine Learning, Data Science, and Deep Neural Networks.
-I have worked for Tata Consultancy Services and Hindustan Computer Limited as a System Engineer and a Product Engineer.
+I am a Researcher at the University of Newcastle with a strong background in Machine Learning, Data Science, and Deep Neural Networks. I bring industry experience from Tata Consultancy Services and HCL Technologies, where I worked as a System Engineer and Product Engineer. My current research focuses on developing software tools to support the analysis and understanding of complex diseases and disorders using Genetic Analysis.
 
 **ORCID:** https://orcid.org/0009-0008-4196-2683
 ## Technical Skills
@@ -33,7 +31,7 @@ I have worked for Tata Consultancy Services and Hindustan Computer Limited as a 
 
 ## Grants
 ```
-1. Travel grant from Company of Biologists(600 pound).
+1. Travel grant from Company of Biologists.
 2. Travel grant for attending international Summer School in Lisbon from CSIRO.
 3. Travel grant for attending PyCon Conference 2025, Melbourne as a Invited speaker.
 4. Travel grant for attending PyCon Conference 2025, Malaysia as a Invited speaker.
@@ -53,6 +51,8 @@ I have worked for Tata Consultancy Services and Hindustan Computer Limited as a 
 ## Leadership Roles
 ```
 1. Industry Coordinator COMBINE Australia
-2. Ambassadior (DAy of AI)
+2. Sponsorship Co-Lead at ASMR(Australian Society for Medical Research)
+3. Ambassador (Day of AI)
+4. Head Instructor for  Deadly-Coders(Indigenous-owned and managed not-for-profit (NFP) organization)
 
 ```
