@@ -11,7 +11,7 @@ I am a PHD Student at the University of Newcastle with a strong background in Ma
 |---------|----------------|
 |🧬 Bioinformatics & Computational Biology|	Genomic data analysis (GWAS, SNP analysis, association studies) ;multi-omics data integration (proteomics, transcriptomics); Protein–Protein Interaction (PPI) network analysis; Statistical genetics (PRS, Mendelian Randomization, LD Score Regression)|
 |⚙️Biological databases|GEO, UniProt, STRING|
-|🤖 Machine Learning |Data preprocessing, normalization, feature engineering ;  AI	Supervised & unsupervised learning; Deep learning (neural networks, representation learning)| Graph Neural Networks (GNNs); Ensemble methods; Model evaluation and validation|
+|🤖 Machine Learning |Data preprocessing, normalization, feature engineering ;  AI	Supervised & unsupervised learning; Deep learning (neural networks, representation learning) ; Graph Neural Networks (GNNs); Ensemble methods; Model evaluation and validation|
 |💻 Programming|	Python, R, Java, C, C++|
 |🗄️ Databases & Data Engineering|	MySQL, SQL Server 2019, Oracle 9i/10g; NoSQL databases; Large-scale data handling|
 |🧪 Tools & Platforms|	MATLAB, LabVIEW, Selenium; OPNET, ProVerif, Citrix, Nagios, Nmap, Wireshark|
