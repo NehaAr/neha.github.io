@@ -28,6 +28,7 @@ I am a PHD Student at the University of Newcastle with a strong background in Ma
 4.Day of AI Ambassador(2025)
 5.Invited Speaker at PyCon Australia 2025
 6.Keynote Speaker at NIER Conference 2025(Virtual)
+7.Reviewer for Applied Intelligence Journal(Springer Nature)
 ```
 
 ## Grants
