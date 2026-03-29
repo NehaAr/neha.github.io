@@ -54,5 +54,6 @@ I am a PHD Student at the University of Newcastle with a strong background in Ma
 2. Sponsorship Co-Lead at ASMR(Australian Society for Medical Research)
 3. Ambassador (Day of AI)
 4. Head Instructor for  Deadly-Coders(Indigenous-owned and managed not-for-profit (NFP) organization)
+5. APBionet Student Member
 
 ```
