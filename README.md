@@ -22,13 +22,14 @@ I am a PHD Student at the University of Newcastle with a strong background in Ma
 
 ## Notable Achievements
 ```bash
-1.Women Scientist at TIFAC(WOS-C) (2019-2020)
-2.CMIE Fellow(2018-2019)(Fellowship awarded by Delhi Government)
-3.Guest Lecturer at Indira Gandhi Technical University, Delhi(2020)
-4.Day of AI Ambassador(2025)
-5.Invited Speaker at PyCon Australia 2025
-6.Keynote Speaker at NIER Conference 2025(Virtual)
-7.Reviewer for Applied Intelligence Journal(Springer Nature)
+1. Women Scientist at TIFAC(WOS-C) (2019-2020)
+2. CMIE Fellow(2018-2019)(Fellowship awarded by Delhi Government)
+3. Guest Lecturer at Indira Gandhi Technical University, Delhi(2020)
+4. Day of AI Ambassador(2025)
+5. Invited Speaker at PyCon Australia 2025
+6. Keynote Speaker at NIER Conference 2025(Virtual)
+7. Invited Speaker at PyCon Malaysia 2025
+8. Reviewer for Applied Intelligence Journal(Springer Nature)
 ```
 
 ## Grants
