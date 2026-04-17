@@ -37,7 +37,7 @@ I am a PHD Student at the University of Newcastle with a strong background in Ma
 2. Travel grant for attending international Summer School in Lisbon from CSIRO.
 3. Travel grant for attending PyCon Conference 2025, Melbourne as a Invited speaker.
 4. GPU research credits award from Google.
-5. NSW Regional Cancer Research Grant for poster presentation at EMBL-AI and Biology(3678AUD)
+5. NSW Regional Cancer Research Grant for poster presentation at EMBL-AI and Biology and RECOMB-2026(3678AUD)
 ```
 
 ## Conferences 
@@ -47,7 +47,8 @@ I am a PHD Student at the University of Newcastle with a strong background in Ma
 |**➢ Australasian Summer School** |Dec-2024|
 |**➢ IHPCSS Summer School**| Jun-2025|
 |**➢ ABACBS Bioinformatics CConference**|Nov-2025|
-|**➢ EMBL-AI and Biology Symposium**|March-2026|
+|**➢ EMBL-AI and Biology Symposium(Virtual)**|March-2026|
+|**➢ RECOMB-2026**|May-2026|
 
 ## Leadership Roles
 ```
@@ -65,8 +66,10 @@ I am a PHD Student at the University of Newcastle with a strong background in Ma
 1. "Optimized Kinetic Data Structures Used in Robot Motion Planning" Authors: Neha Arora, Dr. Deepak Garg https://www.academia.edu/1975639/Optimized_Kinetic_Data_Structures_Based_Algorithms_For_Collis
 
 2. "Analysis of Forest of Hashed Exponential Trees" https://research.ijcaonline.org/volume66/number5/pxc3886022.pdf Authors: Nikita (Lovely Professional University), Neha Arora, Puneet Kumar (Lovely University) "Enhancement of Security Features of Digital Persona" Authors: Neha Arora (Journal of National Security) “Adaptive Intrusion Detection System Leveraging Dynamic Neural Models with
+
 3. Adversarial Learning for 5G/6G Networks” 2025 4th International Conference on Computer Technologies (ICCTech), 103-107
 TECHNICAL
+
 4. Divanshi, Tarunpreet Bhatia, Neha. “Brain Tumor Classification Using a CNN-Driven Deep Learning Framework Leveraging MRI Imaging”. Accepted in Proceedings of SoCPRoS 2025 (to appear in Springer).
 
 ```
