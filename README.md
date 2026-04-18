@@ -2,7 +2,7 @@
 ![Image](neha_new_git.jpg)
 
 ## Summary
-I am a PHD Student at the University of Newcastle with a strong background in Machine Learning, Data Science, and Deep Neural Networks. I bring industry experience from Tata Consultancy Services and HCL Technologies, where I worked as a System Engineer and Product Engineer. My current research focuses on developing software tools to support the analysis and understanding of complex diseases and disorders using Genetic Analysis.
+I am a second year PHD Student at the University of Newcastle with a strong background in Machine Learning, Data Science, and Deep Neural Networks. I bring industry experience from Tata Consultancy Services and HCL Technologies, where I worked as a System Engineer and Product Engineer. My current research focuses on developing software tools to support the analysis and understanding of complex diseases and disorders using Genetic Analysis and omics technologies.
 
 **ORCID:** https://orcid.org/0009-0008-4196-2683
 ## Technical Skills
@@ -27,23 +27,32 @@ I am a PHD Student at the University of Newcastle with a strong background in Ma
 3. Guest Lecturer at Indira Gandhi Technical University, Delhi(2020)
 4. Day of AI Ambassador(2025)
 5. Invited Speaker at PyCon Australia 2025
+6. Invited Speaker at PyCon Malaysia 2025
 6. Keynote Speaker at NIER Conference 2025(Virtual)
 7. Reviewer for Applied Intelligence Journal(Springer Nature)
 ```
 
-## Grants
+## Grants & Research Awards
 ```
-1. Travel grant from Company of Biologists.
-2. Travel grant for attending international Summer School in Lisbon from CSIRO.
-3. Travel grant for attending PyCon Conference 2025, Melbourne as a Invited speaker.
-4. GPU research credits award from Google.
-5. NSW Regional Cancer Research Grant for poster presentation at EMBL-AI and Biology and RECOMB-2026(3678AUD)
+1. NSW Regional Cancer Research Network (NSWRCRN) Travel Award ($3,678 AUD) * Awarded to present research on Dynamic Preprocessing pipeline for predicting clinical endpoints in Endometrial Cancer for  RECOMB 2026 (Thessaloniki) and the EMBL "AI and Biology" conference.
+
+2. Google Cloud Research Credits Award * Awarded for "High-Performance Benchmarking of ML  Models for genomic analysis," providing dedicated GPU infrastructure to scale PhD research on complex disease architecture.
+
+3. CSIRO International HPC Summer School Fellowship (Lisbon, Portugal) * Highly Selective: One of only 10 students nationwide selected by CSIRO to represent Australia at the 15th International High-Performance Computing Summer School.
+
+4. Linux Australia Travel Award – PyCon 2025 (Melbourne) * Invited Speaker and one of 12 awardees nationally recognized for contributions to the Python ecosystem. Presented on Hierarchical Clustering: Finding the awkward reunions.
+
+5. PyCon Malaysia Travel Award-2025  * Presented on The Zen of Metaprogramming-The Code that writes Code.
+
+5. Disease Models & Mechanisms (DMM) Conference Grant – Company of Biologists (£600) * International travel award supporting participation in high-impact biological research symposium (EMBL-AI and Biology).
 ```
 
 ## Conferences 
 
 |   Conference         |    Month/Year         |
 |--------------------|-------------------------|
+|**➢ Australasian Summer School** |Dec-2024|
+|**➢ Oxford ML Summer School** |Dec-2024|
 |**➢ Australasian Summer School** |Dec-2024|
 |**➢ IHPCSS Summer School**| Jun-2025|
 |**➢ ABACBS Bioinformatics CConference**|Nov-2025|
@@ -52,11 +61,17 @@ I am a PHD Student at the University of Newcastle with a strong background in Ma
 
 ## Leadership Roles
 ```
-1. Industry Coordinator COMBINE Australia
-2. Sponsorship Co-Lead at ASMR(Australian Society for Medical Research)
-3. Ambassador (Day of AI)
-4. Head Instructor for  Deadly-Coders(Indigenous-owned and managed not-for-profit (NFP) organization)
-5. APBionet Student Member
+1. **Industry Coordinator, COMBINE Australia** – Spearheading industry-academic partnerships for the national student sub-committee for bioinformatics and computational biology.
+
+2. **Sponsorship Co-Lead, Australian Society for Medical Research (ASMR)** – Leading fundraising and corporate engagement to support national medical research initiatives.
+
+3. **National Ambassador, Day of AI (2025)** – Championing AI literacy and ethical technology education across Australian schools.
+
+4. **Team Lead, Dolphin Tank(2025)** – Facilitating entrepreneurial innovation and pitch-mentoring for emerging healthcare/tech solutions.
+
+5. **Head Instructor, DeadlyCoders** – Leading STEM education and coding workshops for an Indigenous-owned NFP, fostering digital equity.
+
+6. **Active Member, APBionet (Asia-Pacific Bioinformatics Network)** – Engaging with the regional computational biology community.
 
 ```
 
@@ -71,5 +86,7 @@ I am a PHD Student at the University of Newcastle with a strong background in Ma
 TECHNICAL
 
 4. Divanshi, Tarunpreet Bhatia, Neha. “Brain Tumor Classification Using a CNN-Driven Deep Learning Framework Leveraging MRI Imaging”. Accepted in Proceedings of SoCPRoS 2025 (to appear in Springer).
+
+5. 
 
 ```
