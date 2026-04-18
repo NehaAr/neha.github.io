@@ -88,6 +88,10 @@ TECHNICAL
 
 4. Divanshi, Tarunpreet Bhatia, Neha. “Brain Tumor Classification Using a CNN-Driven Deep Learning Framework Leveraging MRI Imaging”. Accepted in Proceedings of SoCPRoS 2025 (to appear in Springer).
 
-5. 
+5. Neha, Bhatia, T., & Singh, I. (2026). A Policy-Based Context-Aware Cipher Suite for Zero-Trust Key Agreement. Submitted to the 23rd International Conference on Security and Cryptography (SECRYPT 2026)
+
+6. Neha, N. (2026). Optimized Reinforcement Learning Framework for Federated Learning. Submitted to the Conference on Pioneering Research in Intelligent Systems and Morphologies (PRISM-2026)
+
+7. Neha, N., Xavier, A., & Cairns, M. J. (2026). Precision Oncology: Predicting Endometrial Cancer Clinical Endpoints and Early Detection Markers Using Deep Learning on Reverse Phase Proteomics Array (RPPA) Data. [In Internal Review / Manuscript in Prep]
 
 ```
