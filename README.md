@@ -51,11 +51,12 @@ I am a second year PHD Student at the University of Newcastle with a strong back
 
 |   Conference         |    Month/Year         |
 |--------------------|-------------------------|
-|**➢ Australasian Summer School** |Dec-2024|
-|**➢ Oxford ML Summer School** |Dec-2024|
+|**➢ University of Queensland Summer School on Quantitative Genetics** |July-2023|
+|**➢ International Conference on Machine Learning(Virtual)** |July-2024|
+|**➢ Oxford ML Summer School** |July-2024|
 |**➢ Australasian Summer School** |Dec-2024|
 |**➢ IHPCSS Summer School**| Jun-2025|
-|**➢ ABACBS Bioinformatics CConference**|Nov-2025|
+|**➢ ABACBS Bioinformatics Conference**|Nov-2025|
 |**➢ EMBL-AI and Biology Symposium(Virtual)**|March-2026|
 |**➢ RECOMB-2026**|May-2026|
 
