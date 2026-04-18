@@ -85,7 +85,7 @@ Neha, N. (2026). Optimized Reinforcement Learning Framework for Federated Learni
 
 Neha, N., Bhatia, T., & Singh, I. (2026). A Policy-Based Context-Aware Cipher Suite for Zero-Trust Key Agreement. [Submitted: SECRYPT 2026]
 
-Neha, N., Xavier, A., & Cairns, M. J. (2026). Synthetic Horizons: Generating Omics Data for Next-Generation Discovery. [Poster]. ScienceOpen Posters.
+Neha, N., Xavier, A., & Cairns, M. J. (2026). Synthetic Horizons: Generating Omics Data for Next-Generation Discovery. [Poster]. [In Review :ScienceOpen Posters].
 
 Divanshi, Bhatia, T., & Neha, N. (2025). Brain Tumor Classification Using a CNN-Driven Deep Learning Framework Leveraging MRI Imaging. [Accepted: Proceedings of SoCPRoS 2025 / Springer]
 
