@@ -34,17 +34,17 @@ I am a second year PHD Student at the University of Newcastle with a strong back
 
 ## Grants & Research Awards
 ```
-1. NSW Regional Cancer Research Network (NSWRCRN) Travel Award ($3,678 AUD) * Awarded to present research on Dynamic Preprocessing pipeline for predicting clinical endpoints in Endometrial Cancer for  RECOMB 2026 (Thessaloniki) and the EMBL "AI and Biology" conference.
+1. NSW Regional Cancer Research Network (NSWRCRN) Travel Award ($3,678 AUD) – Awarded to present research on Dynamic Preprocessing pipelines for predicting clinical endpoints in Endometrial Cancer for RECOMB 2026 (Thessaloniki) and the EMBL "AI and Biology" conference.
 
-2. Google Cloud Research Credits Award * Awarded for "High-Performance Benchmarking of ML  Models for genomic analysis," providing dedicated GPU infrastructure to scale PhD research on complex disease architecture.
+2. Google Cloud Research Credits Award – Awarded for "High-Performance Benchmarking of ML Models for genomic analysis," providing dedicated GPU infrastructure to scale PhD research on complex disease architecture.
 
-3. CSIRO International HPC Summer School Fellowship (Lisbon, Portugal) * Highly Selective: One of only 10 students nationwide selected by CSIRO to represent Australia at the 15th International High-Performance Computing Summer School.
+3. CSIRO International HPC Summer School Fellowship (Lisbon, Portugal) – Highly Selective: One of only 10 students nationwide selected by CSIRO to represent Australia at the 15th International High-Performance Computing Summer School.
 
-4. Linux Australia Travel Award – PyCon 2025 (Melbourne) * Invited Speaker and one of 12 awardees nationally recognized for contributions to the Python ecosystem. Presented on Hierarchical Clustering: Finding the awkward reunions.
+4. Linux Australia Travel Award – PyCon 2025 (Melbourne) – Invited Speaker and one of 12 awardees nationally recognized for contributions to the Python ecosystem. Presented on Hierarchical Clustering: Finding the awkward reunions.
 
-5. PyCon Malaysia Travel Award-2025  * Presented on The Zen of Metaprogramming-The Code that writes Code.
+5. PyCon Malaysia Travel Award (2025) – Presented on The Zen of Metaprogramming—The Code that writes Code.
 
-5. Disease Models & Mechanisms (DMM) Conference Grant – Company of Biologists (£600) * International travel award supporting participation in high-impact biological research symposium (EMBL-AI and Biology).
+6. Disease Models & Mechanisms (DMM) Conference Grant – Company of Biologists (£600) – International travel award supporting participation in high-impact biological research symposium (EMBL-AI and Biology).
 ```
 
 ## Conferences 
