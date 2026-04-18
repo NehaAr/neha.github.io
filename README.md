@@ -76,22 +76,24 @@ I am a second year PHD Student at the University of Newcastle with a strong back
 
 ```
 
-## Publications
+## Publications and Posters
 
 ```
-1. "Optimized Kinetic Data Structures Used in Robot Motion Planning" Authors: Neha Arora, Dr. Deepak Garg https://www.academia.edu/1975639/Optimized_Kinetic_Data_Structures_Based_Algorithms_For_Collis
+Neha, N., Xavier, A., & Cairns, M. J. (2026). Precision Oncology: Predicting Endometrial Cancer Clinical Endpoints and Early Detection Markers Using Deep Learning on Reverse Phase Proteomics Array (RPPA) Data. [In Internal Review / Manuscript in Prep]
 
-2. "Analysis of Forest of Hashed Exponential Trees" https://research.ijcaonline.org/volume66/number5/pxc3886022.pdf Authors: Nikita (Lovely Professional University), Neha Arora, Puneet Kumar (Lovely University) "Enhancement of Security Features of Digital Persona" Authors: Neha Arora (Journal of National Security) “Adaptive Intrusion Detection System Leveraging Dynamic Neural Models with
+Neha, N. (2026). Optimized Reinforcement Learning Framework for Federated Learning. [Submitted: PRISM-2026 / Sole Author]
 
-3. Adversarial Learning for 5G/6G Networks” 2025 4th International Conference on Computer Technologies (ICCTech), 103-107
-TECHNICAL
+Neha, N., Bhatia, T., & Singh, I. (2026). A Policy-Based Context-Aware Cipher Suite for Zero-Trust Key Agreement. [Submitted: SECRYPT 2026]
 
-4. Divanshi, Tarunpreet Bhatia, Neha. “Brain Tumor Classification Using a CNN-Driven Deep Learning Framework Leveraging MRI Imaging”. Accepted in Proceedings of SoCPRoS 2025 (to appear in Springer).
+Neha, N., Xavier, A., & Cairns, M. J. (2026). Synthetic Horizons: Generating Omics Data for Next-Generation Discovery. [Poster]. ScienceOpen Posters.
 
-5. Neha, Bhatia, T., & Singh, I. (2026). A Policy-Based Context-Aware Cipher Suite for Zero-Trust Key Agreement. Submitted to the 23rd International Conference on Security and Cryptography (SECRYPT 2026)
+Divanshi, Bhatia, T., & Neha, N. (2025). Brain Tumor Classification Using a CNN-Driven Deep Learning Framework Leveraging MRI Imaging. [Accepted: Proceedings of SoCPRoS 2025 / Springer]
 
-6. Neha, N. (2026). Optimized Reinforcement Learning Framework for Federated Learning. Submitted to the Conference on Pioneering Research in Intelligent Systems and Morphologies (PRISM-2026)
+Neha, N. (2025). Adaptive Intrusion Detection System Leveraging Dynamic Neural Models with Adversarial Learning for 5G/6G Networks. 4th International Conference on Computer Technologies (ICCTech), pp. 103-107.
 
-7. Neha, N., Xavier, A., & Cairns, M. J. (2026). Precision Oncology: Predicting Endometrial Cancer Clinical Endpoints and Early Detection Markers Using Deep Learning on Reverse Phase Proteomics Array (RPPA) Data. [In Internal Review / Manuscript in Prep]
+Arora, N., & Garg, D. (2012). Optimized Kinetic Data Structures Used in Robot Motion Planning. [IEEE Delhi Chapter]
+
+Nikita, Arora, N., & Kumar, P. (2013). Analysis of Forest of Hashed Exponential Trees. International Journal of Computer Applications (IJCA), Volume 66, No. 5.
+
 
 ```
