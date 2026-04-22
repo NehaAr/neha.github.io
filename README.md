@@ -30,6 +30,8 @@ I am a second year PHD Student at the University of Newcastle with a strong back
 6. Invited Speaker at PyCon Malaysia 2025
 6. Keynote Speaker at NIER Conference 2025(Virtual)
 7. Reviewer for Applied Intelligence Journal(Springer Nature)
+8. Reviewer for Engineering Applications of Artificial Intelligence (Elsevier)
+
 ```
 
 ## Grants & Research Awards
