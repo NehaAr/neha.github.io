@@ -74,6 +74,8 @@ I am a second year PHD Student at the University of Newcastle with a strong back
 
 6. Active Member, APBionet (Asia-Pacific Bioinformatics Network) – Engaging with the regional computational biology community.
 
+7. Active Member, ISCB – Engaging with the regional computational biology community.
+
 ```
 
 ## Publications and Posters
