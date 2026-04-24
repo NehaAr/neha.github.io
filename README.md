@@ -101,3 +101,10 @@ Nikita, Neha, N., & Kumar, P. (2013). Analysis of Forest of Hashed Exponential T
 
 N. Jindal, S. Kaur, P. Kumar, & Neha. Forest Sort: Implementation and Performance Analysis. Research & Reviews: Journal of Embedded System & Applications, 1(1), 19-23 (2013).[SJIF: 6.0]
 ```
+## Research Software & Datasets
+```
+Multimodal Genomic & Phenotypic Data Repository(Zenodo)
+
+  -Curated and harmonized a cross-domain collection of GWAS summaries, protein-protein interaction networks (STRING-db), and disease data.
+  -Impact: 2,000+ global downloads
+```
