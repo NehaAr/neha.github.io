@@ -68,11 +68,11 @@ I am a second year PHD Student at the University of Newcastle with a strong back
 
 2. Sponsorship Co-Lead, Australian Society for Medical Research (ASMR) – Leading fundraising and corporate engagement to support national medical research initiatives.
 
-3. National Ambassador, Day of AI (2025) – Championing AI literacy and ethical technology education across Australian schools.
+3. Ambassador, Day of AI (2025) – Championing AI literacy and ethical technology education across Australian schools.
 
 4. Team Lead, Dolphin Tank(2025) – Facilitating entrepreneurial innovation and pitch-mentoring for emerging healthcare/tech solutions.
 
-5. Head Instructor, DeadlyCoders – Leading STEM education and coding workshops for an Indigenous-owned NFP, fostering digital equity.
+5. Instructor, DeadlyCoders – Leading STEM education and coding workshops for an Indigenous-owned NFP, fostering digital equity.
 
 6. Active Member, APBionet (Asia-Pacific Bioinformatics Network) – Engaging with the regional computational biology community.
 
