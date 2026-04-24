@@ -95,10 +95,9 @@ Divanshi, Bhatia, T., & Neha, N. (2025). Brain Tumor Classification Using a CNN-
 
 Neha, N. (2025). Adaptive Intrusion Detection System Leveraging Dynamic Neural Models with Adversarial Learning for 5G/6G Networks. 4th International Conference on Computer Technologies (ICCTech), pp. 103-107.
 
-Arora, N., & Garg, D. (2012). Optimized Kinetic Data Structures Used in Robot Motion Planning. [IEEE Delhi Chapter]
+Neha, N., & Garg, D. (2012). Optimized Kinetic Data Structures Used in Robot Motion Planning. [IEEE Delhi Chapter]
 
-Nikita, Arora, N., & Kumar, P. (2013). Analysis of Forest of Hashed Exponential Trees. International Journal of Computer Applications (IJCA), Volume 66, No. 5.
+Nikita, Neha, N., & Kumar, P. (2013). Analysis of Forest of Hashed Exponential Trees. International Journal of Computer Applications (IJCA), Volume 66, No. 5.
 
-N. Jindal, S. Kaur, P. Kumar, & N. Arora. Forest Sort: Implementation and Performance Analysis. Research & Reviews: Journal of Embedded System & Applications, 1(1), 19-23 (2013).[Impact Factor: 6.0]
-https://www.researchgate.net/publication/403952789_Forest_Sort_Implementation_and_Performance_Analysis
+N. Jindal, S. Kaur, P. Kumar, & Neha. Forest Sort: Implementation and Performance Analysis. Research & Reviews: Journal of Embedded System & Applications, 1(1), 19-23 (2013).[SJIF: 6.0]
 ```
