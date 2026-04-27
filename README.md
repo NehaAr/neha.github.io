@@ -108,3 +108,10 @@ Multimodal Genomic & Phenotypic Data Repository(Zenodo)
   -Curated and harmonized a cross-domain collection of GWAS summaries, protein-protein interaction networks (STRING-db), and disease data.
   -Impact: 2,000+ global downloads
 ```
+
+## Reviewer
+```
+Reviewed paper for IEEE SmartGridComm'21 on “Machine Learning-based Microgrid Cyberattack Detection through Integration of IT and OT Data” (22.07.2021)
+Reviewed paper “Orthogonal Projection for Disentangled Style Transfer in Diffusion Models” for Applied Sciences Journal 
+Reviewed paper “Batch process quality prediction based on the GFA-xLSTM model for Applied Sciences Journal 
+```
