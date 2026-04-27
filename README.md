@@ -115,3 +115,22 @@ Reviewed paper for IEEE SmartGridComm'21 on “Machine Learning-based Microgrid 
 Reviewed paper “Orthogonal Projection for Disentangled Style Transfer in Diffusion Models” for Applied Sciences Journal 
 Reviewed paper “Batch process quality prediction based on the GFA-xLSTM model for Applied Sciences Journal 
 ```
+## Books
+```
+BOOKS (Amazon KDP)
+[Amazon Author Page](https://www.amazon.com/stores/author/B01LZC7GGB/allbooks?ingress=0&visitId=abb7865c-c742-4109-834a-a500ee2c49d1&ccs_id=1e0bcfc2-5bf4-4fee-a9a7-eb38a4dcac76)
+1. Arora, N. "ProVerif - The Protocol Verifier."
+   Amazon Kindle Direct Publishing.
+   [Directly related to MTech thesis work on 
+   formal protocol verification]
+
+2. Arora, N. "The Environmental Refugees in Maldives."
+   Amazon Kindle Direct Publishing.
+   [Interdisciplinary work on environmental policy 
+   and climate displacement]
+
+3. Arora, N. "Cope d Destral - Hacker's Magazine: 
+   Hacker's Tool."
+   Amazon Kindle Direct Publishing.
+   [Cybersecurity and ethical hacking tools]
+```
