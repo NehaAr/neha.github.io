@@ -28,8 +28,8 @@ I am a second year PHD Student at the University of Newcastle with a strong back
 2. CMIE Fellow(2018-2019)(Fellowship awarded by Delhi Government)
 3. Guest Lecturer at Indira Gandhi Technical University, Delhi(2020)
 4. Day of AI Ambassador(2025)
-5. Invited Speaker at PyCon Australia 2025
-6. Invited Speaker at PyCon Malaysia 2025
+5. Selected Speaker at PyCon Australia 2025
+6. Selected Speaker at PyCon Malaysia 2025(Virtual)
 6. Keynote Speaker at NIER Conference 2025(Virtual)
 7. Reviewer - Applied Intelligence Journal(Springer Nature)
 8. Reviewer -Engineering Applications of Artificial Intelligence (Elsevier)
@@ -44,7 +44,7 @@ I am a second year PHD Student at the University of Newcastle with a strong back
 
 3. CSIRO International HPC Summer School Fellowship (Lisbon, Portugal) – Highly Selective: One of only 10 students nationwide selected by CSIRO to represent Australia at the 15th International High-Performance Computing Summer School.
 
-4. Linux Australia Travel Award – PyCon 2025 (Melbourne) – Invited Speaker and one of 12 awardees nationally recognized for contributions to the Python ecosystem. Presented on Hierarchical Clustering: Finding the awkward reunions.
+4. Linux Australia Travel Award – PyCon 2025 (Melbourne) – Selected Speaker and one of 12 awardees for the Grant. Presented on Hierarchical Clustering: Finding the awkward reunions.
 
 5. PyCon Malaysia Travel Award (2025) – Presented on The Zen of Metaprogramming—The Code that writes Code.
 
