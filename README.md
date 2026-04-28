@@ -66,19 +66,21 @@ I am a second year PHD Student at the University of Newcastle with a strong back
 
 ## Leadership Roles
 ```
-1. Industry Coordinator, COMBINE Australia – Spearheading industry-academic partnerships for the national student sub-committee for bioinformatics and computational biology.
+1. Guest Lecturer at “Indira Gandhi Technical University for Women”, New Delhi, India for Advanced Database Management Systems(2020-2021)
 
-2. Sponsorship Co-Lead, Australian Society for Medical Research (ASMR) – Leading fundraising and corporate engagement to support national medical research initiatives.
+2. Industry Coordinator, COMBINE Australia – Spearheading industry-academic partnerships for the national student sub-committee for bioinformatics and computational biology.
 
-3. Ambassador, Day of AI (2025) – Championing AI literacy and ethical technology education across Australian schools.
+3. Sponsorship Co-Lead, Australian Society for Medical Research (ASMR) – Leading fundraising and corporate engagement to support national medical research initiatives.
 
-4. Team Lead, Dolphin Tank(2025) – Facilitating entrepreneurial innovation and pitch-mentoring for emerging healthcare/tech solutions.
+4. Ambassador, Day of AI (2025) – Championing AI literacy and ethical technology education across Australian schools.
 
-5. Instructor, DeadlyCoders – Leading STEM education and coding workshops for an Indigenous-owned NFP, fostering digital equity.
+5. Team Lead, Dolphin Tank(2025) – Facilitating entrepreneurial innovation and pitch-mentoring for emerging healthcare/tech solutions.
 
-6. Active Member, APBionet (Asia-Pacific Bioinformatics Network) – Engaging with the regional computational biology community.
+6. Instructor, DeadlyCoders – Leading STEM education and coding workshops for an Indigenous-owned NFP, fostering digital equity.
 
-7. Active Member, ISCB – Engaging with the regional computational biology community.
+7. Active Member, APBionet (Asia-Pacific Bioinformatics Network) – Engaging with the regional computational biology community.
+
+8. Active Member, ISCB – Engaging with the regional computational biology community.
 
 ```
 
