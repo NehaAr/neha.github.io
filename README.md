@@ -91,7 +91,7 @@ Neha, N., Xavier, A., & Cairns, M. J. (2026). Precision Oncology: Predicting End
 
 Neha, N. (2026). Optimized Reinforcement Learning Framework for Federated Learning. [Submitted: PRISM-2026 / Sole Author]
 
-Neha, N., Bhatia, T., & Singh, I. (2026). A Policy-Based Context-Aware Cipher Suite for Zero-Trust Key Agreement. [Submitted: SECRYPT 2026]
+Neha, N., Bhatia, T., & Singh, I. (2026). A Policy-Based Context-Aware Cipher Suite for Zero-Trust Key Agreement. [Accepted(01-05-2026): SECRYPT 2026]
 
 Neha, N., Xavier, A., & Cairns, M. J. (2026). Synthetic Horizons: Generating Omics Data for Next-Generation Discovery. [Poster]. [In Review :ScienceOpen Posters].
 
