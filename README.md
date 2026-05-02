@@ -62,7 +62,7 @@ I am a second year PHD Student at the University of Newcastle with a strong back
 |**➢ IHPCSS Summer School**| Jun-2025|
 |**➢ ABACBS Bioinformatics Conference**|Nov-2025|
 |**➢ EMBL-AI and Biology Symposium(Virtual)**|March-2026|
-|**➢ RECOMB-2026**|May-2026|
+|**➢ RECOMB-2026(ICORE B)**|May-2026|
 
 ## Leadership Roles
 ```
