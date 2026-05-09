@@ -33,6 +33,7 @@ I am a second year PHD Student at the University of Newcastle with a strong back
 6. Keynote Speaker at NIER Conference 2025(Virtual)
 7. Reviewer - Applied Intelligence Journal(Springer Nature)
 8. Reviewer -Engineering Applications of Artificial Intelligence (Elsevier)
+9. Reviewer -Information Fusion 
 
 ```
 
@@ -116,8 +117,8 @@ Multimodal Genomic & Phenotypic Data Repository(Zenodo)
 ## Reviewer
 ```
 Reviewed paper for IEEE SmartGridComm'21 on “Machine Learning-based Microgrid Cyberattack Detection through Integration of IT and OT Data” (22.07.2021)
-Reviewed paper “Orthogonal Projection for Disentangled Style Transfer in Diffusion Models” for Applied Sciences Journal 
-Reviewed paper “Batch process quality prediction based on the GFA-xLSTM model for Applied Sciences Journal 
+Reviewed paper “Orthogonal Projection for Disentangled Style Transfer in Diffusion Models” for the Applied Intelligence Journal 
+Reviewed paper “Batch process quality prediction based on the GFA-xLSTM model for Applied Intelligence Journal 
 ```
 ## Books
 ```
