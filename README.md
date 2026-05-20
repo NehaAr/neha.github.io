@@ -90,6 +90,8 @@ I am a second year PHD Student at the University of Newcastle with a strong back
 ## Publications and Posters
 
 ```
+Neha, N., & Bhatia, T. (2026). HRG-GNN: Hybrid Link Prediction Algorithm. [Submitted: InCoB-2026 / Co-Author]
+
 Neha, N. (2026). Network-Based Approaches for Detection and Characterization of GNE Myopathy. [Submitted: InCoB-2026 / Sole Author]
 
 Neha, N., Xavier, A., & Cairns, M. J. (2026). Precision Oncology: Predicting Endometrial Cancer Clinical Endpoints and Early Detection Markers Using Deep Learning on Reverse Phase Proteomics Array (RPPA) Data. [In Internal Review / Manuscript in Prep]
