@@ -147,6 +147,7 @@ BOOKS (Amazon KDP)
 ```
 ## Intellectual Property Rights(Copyright Registerations)
 ```
-1. A MATHEMATICAL FRAMEWORK FOR GENERATING SYNTHETIC PROTEOMIC AND CLINICAL PROFILES IN ENDOMETRIAL CANCER(SW-2026022405)
-2. Automated Genomic Data Sorting Widget(SW-2026022494)
+1. A MATHEMATICAL FRAMEWORK FOR GENERATING SYNTHETIC PROTEOMIC AND CLINICAL PROFILES IN ENDOMETRIAL CANCER(Registered-SW-2026022405)
+2. Automated Genomic Data Sorting Widget(Registered-SW-2026022494)
+3. Graphical User Interface (GUI) Design of Web-Based Oncology Application-Data Analyser and Predictor(Submitted(AT-24331/2026-CO))
 ```
