@@ -96,7 +96,7 @@ Neha, N. (2026). Network-Based Approaches for Detection and Characterization of 
 
 Neha, N., Xavier, A., & Cairns, M. J. (2026). Precision Oncology: Predicting Endometrial Cancer Clinical Endpoints and Early Detection Markers Using Deep Learning on Reverse Phase Proteomics Array (RPPA) Data. [In Internal Review / Manuscript in Prep]
 
-Neha, N. (2026). Optimized Reinforcement Learning Framework for Federated Learning. [Submitted: PRISM-2026 / Sole Author]
+Neha, N. (2026). Optimized Reinforcement Learning Framework for Federated Learning. [Accepted[01-06-2026]: PRISM-2026 / Sole Author]
 
 Neha, N., Bhatia, T., & Singh, I. (2026). A Policy-Based Context-Aware Cipher Suite for Zero-Trust Key Agreement. [Accepted(01-05-2026): SECRYPT 2026]
 
