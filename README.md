@@ -69,7 +69,7 @@ I am a second year PHD Student at the University of Newcastle with a strong back
 
 ## Leadership Roles
 ```
-1. Guest Lecturer at “Indira Gandhi Technical University for Women”, New Delhi, India for Advanced Database Management Systems(2020-2021)
+1. Guest Faculty at “Indira Gandhi Technical University for Women”, New Delhi, India for Advanced Database Management Systems(2020-2021)
 
 2. Industry Coordinator, COMBINE Australia – Spearheading industry-academic partnerships for the national student sub-committee for bioinformatics and computational biology.
 
