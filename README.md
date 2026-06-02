@@ -52,6 +52,9 @@ I am a second year PHD Student at the University of Newcastle with a strong back
 6. Disease Models & Mechanisms (DMM) Conference Grant – Company of Biologists (£600) – International travel award supporting participation in high-impact biological research symposium (EMBL-AI and Biology).
 
 7. Open Bioinformatics Foundation Fellowship (1500 USD) - Travel Fellowship Award to promote open source software at BOSC-2026[Results announced on [09-05-2026]
+
+8. Intelligent Systems for Molecular Biology (1500 USD) - Travel Fellowship Award to promote open source software at BOSC-2026[Results announced on [02-06-2026]
+
 ```
 
 ## Conferences 
