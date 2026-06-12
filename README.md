@@ -56,6 +56,8 @@ I am a second year PHD Student at the University of Newcastle with a strong back
 
 8. Intelligent Systems for Molecular Biology (1500 USD) - Travel Fellowship Award to promote open source software at BOSC-2026[Results announced on [02-06-2026]
 
+9. Kaggle Benchmark Resource Grant Winner for Q2 2026
+
 ```
 
 ## Conferences 
