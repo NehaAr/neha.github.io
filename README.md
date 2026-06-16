@@ -4,7 +4,7 @@
 ![Image](neha_new_git.jpg)
 
 ## Summary
-I am a second year PHD Student at the University of Newcastle with a strong background in Machine Learning, Data Science, and Deep Neural Networks. I bring industry experience from Tata Consultancy Services and HCL Technologies, where I worked as a System Engineer and Product Engineer. My current research focuses on developing software tools to support the analysis and understanding of complex diseases and disorders using Genetic Analysis and omics technologies.
+I am a PHD Student at the University of Newcastle with a strong background in Machine Learning, Data Science, and Deep Neural Networks. I bring industry experience from Tata Consultancy Services and HCL Technologies, where I worked as a System Engineer and Product Engineer. My current research focuses on developing software tools to support the analysis and understanding of complex diseases and disorders using Genetic Analysis and omics technologies.
 
 **ORCID:** https://orcid.org/0009-0008-4196-2683
 ## Technical Skills
