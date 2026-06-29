@@ -37,7 +37,10 @@ I am a PHD Student at the University of Newcastle with a strong background in Ma
 10. Reviewer - IET Biometrics(Wiley)
 
 ```
-
+## Cerifications
+```
+AWS AI & ML Scholar (Challenge Graduate) | Amazon Web Services & Udacity — June 2026
+```
 ## Grants & Research Awards
 ```
 1. NSW Regional Cancer Research Network (NSWRCRN) Travel Award ($3,678 AUD) – Awarded to present research on Dynamic Preprocessing pipelines for predicting clinical endpoints in Endometrial Cancer for RECOMB 2026 (Thessaloniki) and the EMBL "AI and Biology" conference.
