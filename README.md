@@ -35,6 +35,7 @@ I am a PHD Student at the University of Newcastle with a strong background in Ma
 8. Reviewer -Engineering Applications of Artificial Intelligence (Elsevier)
 9. Reviewer -Information Fusion
 10. Reviewer - IET Biometrics(Wiley)
+11. 3MT (Three Minute Thesis) Winner & People's Choice Award Recipient | School of Biomedical Sciences and Pharmacy
 
 ```
 ## Cerifications
