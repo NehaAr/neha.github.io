@@ -76,6 +76,7 @@ AWS AI & ML Scholar (Challenge Graduate) | Amazon Web Services & Udacity — Jun
 |**➢ ABACBS Bioinformatics Conference**|Nov-2025|
 |**➢ EMBL-AI and Biology Symposium(Virtual)**|March-2026|
 |**➢ RECOMB-2026(ICORE B)**|May-2026|
+|**➢ ISMB-2026(ICORE A)**|Jul-2026|
 
 ## Leadership Roles
 ```
