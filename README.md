@@ -35,7 +35,8 @@ I am a PHD Student at the University of Newcastle with a strong background in Ma
 8. Reviewer -Engineering Applications of Artificial Intelligence (Elsevier)
 9. Reviewer -Information Fusion
 10. Reviewer - IET Biometrics(Wiley)
-11. 3MT (Three Minute Thesis) Winner & People's Choice Award Recipient | School of Biomedical Sciences and Pharmacy
+11. 3MT (Three Minute Thesis) Winner and People Choice Award Recipient | School of Biomedical Sciences and Pharmacy
+12. Nominated as Full Member, Sigma Xi – The Scientific Research Honor Society, 2026
 
 ```
 ## Cerifications
@@ -61,6 +62,8 @@ AWS AI & ML Scholar (Challenge Graduate) | Amazon Web Services & Udacity — Jun
 8. Intelligent Systems for Molecular Biology (1500 USD) - Travel Fellowship Award to promote open source software at BOSC-2026[Results announced on [02-06-2026]
 
 9. Kaggle Benchmark Resource Grant Winner for Q2 2026
+
+10. APBionet Travel Fellowship 200 USD for attending INCOB Conference
 
 ```
 
