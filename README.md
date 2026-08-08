@@ -29,7 +29,7 @@ I am a PHD Student at the University of Newcastle with a strong background in Ma
 3. Guest Lecturer at Indira Gandhi Technical University, Delhi(2020)
 4. Day of AI Ambassador(2025)
 5. Selected Speaker at PyCon Australia 2025
-6. Selected Speaker at PyCon Malaysia 2025(Virtual)
+6. Selected Speaker at PyCon Malaysia 2025
 6. Keynote Speaker at NIER Conference 2025(Virtual)
 7. Reviewer - Applied Intelligence Journal(Springer Nature)
 8. Reviewer -Engineering Applications of Artificial Intelligence (Elsevier)
