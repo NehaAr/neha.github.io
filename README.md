@@ -80,7 +80,7 @@ AWS AI & ML Scholar (Challenge Graduate) | Amazon Web Services & Udacity — Jun
 |**➢ EMBL-AI and Biology Symposium(Virtual)**|March-2026|
 |**➢ RECOMB-2026(ICORE B)**|May-2026|
 |**➢ ISMB-2026(ICORE A)**|Jul-2026|
-|**➢ PRISM-2026|Aug-2026|
+|**➢ PRISM-2026**|Aug-2026|
 
 ## Leadership Roles
 ```
@@ -107,7 +107,7 @@ AWS AI & ML Scholar (Challenge Graduate) | Amazon Web Services & Udacity — Jun
 ```
 Neha, N., & Bhatia, T. (2026). HRG-GNN: Hybrid Link Prediction Algorithm. [Accepted(09/07/2026): InCoB-2026 / Co-Author]
 
-Neha, N. (2026). Network-Based Approaches for Detection and Characterization of GNE Myopathy. [Accepted(09/07/2026): InCoB-2026 / Sole Author]
+Neha, N. (2026). Network-Based Approaches for Detection and Characterization of GNE Myopathy. [Accepted(09/07/2026): InCoB-2026(Springer proceedings) / Sole Author]
 
 Neha, N. (2026). SynthProteomics: A Probabilistic Fuzzy Rule-Based Framework for Synthetic Clinical and Proteomics Data Simulation in Endometrial Cancer Research. [Accepted(13/07/2026): Bioinformatics Advances[IF 2.6]/ Sole Author]
 
