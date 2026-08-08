@@ -35,7 +35,7 @@ I am a PHD Student at the University of Newcastle with a strong background in Ma
 8. Reviewer -Engineering Applications of Artificial Intelligence (Elsevier)
 9. Reviewer -Information Fusion
 10. Reviewer - IET Biometrics(Wiley)
-11. 3MT (Three Minute Thesis) Winner and People Choice Award Recipient | School of Biomedical Sciences and Pharmacy
+11. 3MT (Three Minute Thesis) Winner and People's Choice Award Recipient | School of Biomedical Sciences and Pharmacy
 12. Nominated as Full Member, Sigma Xi – The Scientific Research Honor Society, 2026
 
 ```
@@ -80,6 +80,7 @@ AWS AI & ML Scholar (Challenge Graduate) | Amazon Web Services & Udacity — Jun
 |**➢ EMBL-AI and Biology Symposium(Virtual)**|March-2026|
 |**➢ RECOMB-2026(ICORE B)**|May-2026|
 |**➢ ISMB-2026(ICORE A)**|Jul-2026|
+|**➢ PRISM-2026|Aug-2026|
 
 ## Leadership Roles
 ```
