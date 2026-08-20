@@ -37,6 +37,8 @@ I am a PHD Student at the University of Newcastle with a strong background in Ma
 10. Reviewer - IET Biometrics(Wiley)
 11. 3MT (Three Minute Thesis) Winner and People's Choice Award Recipient | School of Biomedical Sciences and Pharmacy
 12. Nominated as Full Member, Sigma Xi – The Scientific Research Honor Society, 2026
+13. Nominated AS Senior IEEE Member for the year 2026
+
 
 ```
 ## Cerifications
@@ -55,15 +57,13 @@ AWS AI & ML Scholar (Challenge Graduate) | Amazon Web Services & Udacity — Jun
 
 5. PyCon Malaysia Travel Award (2025) – Presented on The Zen of Metaprogramming—The Code that writes Code.
 
-6. Disease Models & Mechanisms (DMM) Conference Grant – Company of Biologists (£600) – International travel award supporting participation in high-impact biological research symposium (EMBL-AI and Biology).
-
-7. Open Bioinformatics Foundation Fellowship (1500 USD) - Travel Fellowship Award to promote open source software at BOSC-2026[Results announced on [09-05-2026]
+6. Disease Models & Mechanisms (DMM) Conference Grant – Company of Biologists (£600) – International travel award supporting participation in a high-impact biological research symposium (EMBL-AI and Biology).
 
 8. Intelligent Systems for Molecular Biology (1500 USD) - Travel Fellowship Award to promote open source software at BOSC-2026[Results announced on [02-06-2026]
 
 9. Kaggle Benchmark Resource Grant Winner for Q2 2026
 
-10. APBionet Travel Fellowship 200 USD for attending INCOB Conference
+10. APBionet Travel Fellowship 200 USD for attending INCOB Conference 
 
 ```
 
