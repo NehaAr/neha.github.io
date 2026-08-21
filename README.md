@@ -35,9 +35,11 @@ I am a PHD Student at the University of Newcastle with a strong background in Ma
 8. Reviewer -Engineering Applications of Artificial Intelligence (Elsevier)
 9. Reviewer -Information Fusion
 10. Reviewer - IET Biometrics(Wiley)
-11. 3MT (Three Minute Thesis) Winner and People's Choice Award Recipient | School of Biomedical Sciences and Pharmacy
+11. 3MT (Three Minute Thesis) Winner and People Choice Award Recipient | School of Biomedical Sciences and Pharmacy
 12. Nominated as Full Member, Sigma Xi – The Scientific Research Honor Society, 2026
-13. Nominated AS Senior IEEE Member for the year 2026
+13. Nominated As Senior IEEE Member for the year 2026
+14. Evaluator/Judge for IFORE 2026
+
 
 
 ```
