@@ -39,6 +39,7 @@ I am a PHD Student at the University of Newcastle with a strong background in Ma
 12. Nominated as Full Member, Sigma Xi – The Scientific Research Honor Society, 2026
 13. Nominated As Senior IEEE Member for the year 2026
 14. Evaluator/Judge for IFORE 2026
+15. Nominated as ExCo committee member for APBioNet
 
 
 
@@ -101,6 +102,8 @@ AWS AI & ML Scholar (Challenge Graduate) | Amazon Web Services & Udacity — Jun
 7. Active Member, APBionet (Asia-Pacific Bioinformatics Network) – Engaging with the regional computational biology community.
 
 8. Active Member, ISCB – Engaging with the regional computational biology community.
+
+9. Active Member, ACS(Australian Computer Society) 
 
 ```
 
