@@ -40,7 +40,7 @@ I am a PHD Student at the University of Newcastle with a strong background in Ma
 13. Nominated As Senior IEEE Member for the year 2026
 14. Evaluator/Judge for IFORE 2026
 15. Nominated as ExCo committee member for APBioNet
-
+16. Reviewer -NeurIPS-AI4Science 2026
 
 
 ```
