@@ -31,17 +31,18 @@ I am a PHD Student at the University of Newcastle with a strong background in Ma
 5. Selected Speaker at PyCon Australia 2025
 6. Selected Speaker at PyCon Malaysia 2025
 6. Keynote Speaker at NIER Conference 2025(Virtual)
-7. Reviewer - Applied Intelligence Journal(Springer Nature)
-8. Reviewer -Engineering Applications of Artificial Intelligence (Elsevier)
-9. Reviewer -Information Fusion
-10. Reviewer - IET Biometrics(Wiley)
+7. Peer Reviewer - Applied Intelligence Journal(Springer Nature)
+8. Peer Reviewer -Engineering Applications of Artificial Intelligence (Elsevier)
+9. Peer Reviewer -Information Fusion
+10. Peer Reviewer - IET Biometrics(Wiley)
 11. 3MT (Three Minute Thesis) Winner and People Choice Award Recipient | School of Biomedical Sciences and Pharmacy
-12. Nominated as Full Member, Sigma Xi – The Scientific Research Honor Society, 2026
+12. Full Member, Sigma Xi – The Scientific Research Honor Society, 2026
 13. Nominated As Senior IEEE Member for the year 2026
 14. Evaluator/Judge for IFORE 2026
 15. Nominated as ExCo committee member for APBioNet
-16. Reviewer -NeurIPS-AI4Science 2026
-17. Reviewer- Journal of Open Source Software(JOSS).
+16. Peer Reviewer -NeurIPS-AI4Science 2026 and NeurIPS-GlobalSouth 2026 
+17. Peer Reviewer- Journal of Open Source Software(JOSS).
+18. Peer Reviewer -ABACBS 2026
 
 
 ```
