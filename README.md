@@ -86,6 +86,7 @@ AWS AI & ML Scholar (Challenge Graduate) | Amazon Web Services & Udacity — Jun
 |**➢ RECOMB-2026(ICORE B)**|May-2026|
 |**➢ ISMB-2026(ICORE A)**|Jul-2026|
 |**➢ PRISM-2026**|Aug-2026|
+|**➢ INCOB-2026|Sep-2026|
 
 ## Leadership Roles
 ```
@@ -143,6 +144,15 @@ Multimodal Genomic & Phenotypic Data Repository(Zenodo)
 
   -Curated and harmonized a cross-domain collection of GWAS summaries, protein-protein interaction networks (STRING-db), and disease data.
   -Impact: 2,000+ global downloads
+```
+
+### Open Source Projects
+
+**Open-Source Python Package: dzh_protocol** | [09, 2026]
+```
+`pip install dzh_protocol` • [GitHub Link]
+* Built and published a public Python library designed to automate data storage.
+* Automated package deployment, versioning, and unit testing using **GitHub Actions** CI/CD pipelines.
 ```
 
 ## Reviewer
