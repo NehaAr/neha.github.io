@@ -185,4 +185,5 @@ BOOKS (Amazon KDP)
 1. A MATHEMATICAL FRAMEWORK FOR GENERATING SYNTHETIC PROTEOMIC AND CLINICAL PROFILES IN ENDOMETRIAL CANCER(Registered-SW-2026022405)
 2. Automated Genomic Data Sorting Widget(Registered-SW-2026022494)
 3. Graphical User Interface (GUI) Design of Web-Based Oncology Application-Data Analyser and Predictor(Submitted(AT-24331/2026-CO))
+4. Design Patent (Pending): Transdermal Hormone Delivery Earring, Indian Design Application No. [520788-001], Filed Oct 2026 (Class 11-01).
 ```
