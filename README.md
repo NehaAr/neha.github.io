@@ -37,7 +37,7 @@ I am a PHD Student at the University of Newcastle with a strong background in Ma
 10. Peer Reviewer - IET Biometrics(Wiley)
 11. 3MT (Three Minute Thesis) Winner and People Choice Award Recipient | School of Biomedical Sciences and Pharmacy
 12. Full Member, Sigma Xi – The Scientific Research Honor Society, 2026
-13. Nominated As Senior IEEE Member for the year 2026
+13. Senior IEEE Member 
 14. Evaluator/Judge for IFORE 2026
 15. Nominated as ExCo committee member for APBioNet
 16. Peer Reviewer -NeurIPS-AI4Science 2026 and NeurIPS-GlobalSouth 2026 
@@ -68,7 +68,9 @@ AWS AI & ML Scholar (Challenge Graduate) | Amazon Web Services & Udacity — Jun
 
 9. Kaggle Benchmark Resource Grant Winner for Q2 2026
 
-10. APBionet Travel Fellowship 200 USD for attending INCOB Conference 
+10. APBionet Travel Fellowship 200 USD for attending INCOB Conference
+
+11. Travel Grant ABACBS'2026 
 
 ```
 
