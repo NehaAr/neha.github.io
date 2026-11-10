@@ -120,7 +120,6 @@ Neha, N., & Bhatia, T. (2026). HRG-GNN: Hybrid Link Prediction Algorithm. [Accep
 
 Neha, N. (2026). Network-Based Approaches for Detection and Characterization of GNE Myopathy. [Accepted(09/07/2026): InCoB-2026(Springer proceedings) / Sole Author]
 
-Neha, N. (2026). SynthProteomics: A Probabilistic Fuzzy Rule-Based Framework for Synthetic Clinical and Proteomics Data Simulation in Endometrial Cancer Research. [Accepted(13/07/2026): Bioinformatics Advances[IF 2.6]/ Sole Author]
 
 Neha, N., Xavier, A., & Cairns, M. J. (2026). Precision Oncology: Predicting Endometrial Cancer Clinical Endpoints and Early Detection Markers Using Deep Learning on Reverse Phase Proteomics Array (RPPA) Data. [In Internal Review / Manuscript in Prep]
 
