@@ -4,7 +4,7 @@
 ![Image](neha_new_git.jpg)
 
 ## Summary
-I am a PHD Student at the University of Newcastle with a strong background in Machine Learning, Data Science, and Deep Neural Networks. I bring industry experience from Tata Consultancy Services and HCL Technologies, where I worked as a System Engineer and Data Engineer. My current research focuses on developing software tools to support the analysis and understanding of complex diseases and disorders using Genetic Analysis and omics technologies.
+I am a Casual Academic (Data Structures) and PhD Candidate at the University of Newcastle with a strong background in Machine Learning, Data Science, and Deep Neural Networks. I bring industry experience from Tata Consultancy Services and HCL Technologies, where I worked as a System Engineer and Data Engineer. My current research focuses on developing software tools to support the analysis and understanding of complex diseases and disorders using Genetic Analysis and omics technologies.
 
 **ORCID:** https://orcid.org/0009-0008-4196-2683
 ## Technical Skills
@@ -44,6 +44,7 @@ I am a PHD Student at the University of Newcastle with a strong background in Ma
 16. Peer Reviewer -NeurIPS-AI4Science 2026 and NeurIPS-GlobalSouth 2026 
 17. Peer Reviewer- Journal of Open Source Software(JOSS).
 18. Peer Reviewer -ABACBS 2026
+19. Session Co-chair COMBINE 2026
 
 
 ```
@@ -71,7 +72,7 @@ AWS AI & ML Scholar (Challenge Graduate) | Amazon Web Services & Udacity — Jun
 
 10. APBionet Travel Fellowship 200 USD for attending INCOB Conference
 
-11. Travel Grant ABACBS'2026 
+11. Travel Grant COMBINE'2026 (300 aud)
 
 ```
 
